@@ -9,3 +9,8 @@ This a HEX file compiled from the source **grbl-atmega32u4-support-8c** *here*[h
 
 I will use it on my **Arduino Leonardo** for a DIY laser engraver,but i didn't test it fully.
 
+---------------
+####update####
+2014-04-11
+There is a **LUFA CDC DEMO dirver** problem on WINDOWS.
+
