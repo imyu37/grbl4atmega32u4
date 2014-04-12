@@ -2,11 +2,10 @@ grbl4atmega32u4
 ===============
 
 
-#ABOUT#
+###ABOUT###
 
-This a HEX file compiled from the source **grbl-atmega32u4-support-8c** *here*[https://github.com/rdpowers/grbl/tree/atmega32u4-support-8c].
+This a HEX file compiled from the source **grbl-atmega32u4-support-8c** *here*[https://github.com/rdpowers/grbl/tree/atmega32u4-support-8c] with WINAVR.
+###NOTICE###
 
-#NOTICE#
-
-I will use it on my Arduino Leonardo for a DIY laser engraver,but i don't test it fully.
+I will use it on my **Arduino Leonardo** for a DIY laser engraver,but i didn't test it fully.
 
