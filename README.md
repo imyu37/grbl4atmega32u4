@@ -12,5 +12,5 @@ I will use it on my **Arduino Leonardo** for a DIY laser engraver,but i didn't t
 ---------------
 ####update####
 2014-04-11
-There is a **LUFA CDC DEMO dirver** problem on WINDOWS.
+There is a **LUFA CDC DEMO dirver** problem on WINDOWS XP.
 
