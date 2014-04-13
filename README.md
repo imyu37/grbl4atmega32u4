@@ -15,4 +15,4 @@ It will be used on my **Arduino Leonardo** for a DIY laser engraver without full
 There is a **LUFA CDC DEMO dirver** problem on WINDOWS XP. It's seems that [Windows Driver Installer](http://www.pjrc.com/teensy/usb_serial.html) may function as driver for LUFA.
 
 2014-04-12
-After install [Windows Driver Installer](http://www.pjrc.com/teensy/usb_serial.html),A **Teensy USB serial** will list on the * Ports (com and lpt1)* for *Device manager* .Then **grbl-atmega32u4-support-8c** works well as gcode interpreter for Arduino Leonardo on Windows XP. 
+After install [Windows Driver Installer](http://www.pjrc.com/teensy/usb_serial.html),A **Teensy USB serial** will list on the *Ports (com and lpt1)* for *Device manager* .Then **grbl-atmega32u4-support-8c** works well as gcode interpreter for Arduino Leonardo on Windows XP. 
